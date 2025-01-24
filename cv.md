@@ -1,7 +1,7 @@
 # Lebenslauf
 
 ## Persönliche Daten
-- **Name:** Olga Tkach
+- **Name:** Olga Tkachuk
 - **Geburtsdatum:** 30.01.1989
 - **GitHub:** [GitHub-Link](https://github.com/OlgaTkach1989)
 
@@ -46,3 +46,6 @@
 - Fremdsprachen lernen (Deutsch)  
 - Lesen von technischen Blogs und Artikeln  
 - Reisen und neue Kulturen entdecken  
+
+![Profilbild](https://www.kunstplaza.de/wp-content/uploads/2023/03/Jan_Vermeer_-_The_Astronomer.jpg.webp)
+
